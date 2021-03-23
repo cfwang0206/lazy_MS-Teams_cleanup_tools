@@ -3,7 +3,7 @@ Lazy Microsoft Teams cleanup tool
 
 This script help you lazy cleanup M$ Teams files, 
 
-Solve M$ Teams can't login problem.
+Solve Microsoft Teams can't login problem.
 
 
 ****#REF:**
